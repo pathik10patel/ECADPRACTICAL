@@ -27,7 +27,7 @@
 		<td><select name="dept">
 		<option value="cba">CBA</option>
 		<option value="bda">BDA</option>
-		<option value="ma">MA</option>
+		<option value="ma">ABC</option>
 		</select></td>
 		</tr><tr>
 		<td>category</td>
